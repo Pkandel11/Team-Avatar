@@ -1,7 +1,7 @@
 # Team-Avatar
 ### Data Analysis with Python
 
-This is a repo for DSE511 final project. The dataset analysis for the ... dataset.
+This is a repo for DSE511 final project. We will be using the dataset for California Housing Prices: (https://www.kaggle.com/camnugent/california-housing-prices).
 
 ### Team Members: 
 
