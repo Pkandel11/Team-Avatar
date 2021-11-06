@@ -1,7 +1,7 @@
 # Team-Avatar
-Data Analysis with Python
+### Data Analysis with Python
 
-This is a repo for ...... data analysis for the ... dataset.
+This is a repo for DSE511 final project. The dataset analysis for the ... dataset.
 
 ### Team Members: 
 
@@ -12,7 +12,7 @@ This is a repo for ...... data analysis for the ... dataset.
 
 ### Code and Data
 
-..... data can be found in the data directory: 
+Dataset can be found in the data directory (will be updated soon): 
 
 ```
 .
