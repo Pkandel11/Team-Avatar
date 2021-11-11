@@ -1,0 +1,22 @@
+Parts to do:
+
+1) Explanatory data analysis to see the relationship between the prices and categories: like “prices” vs “area of housing” - can be scatter plots, heatmaps, etc. 
+2) Data preprocessing:
+  - Cleaning the NAN, null, missing values
+  - Handling Text and Categorical Attributes (like ocean proximity)
+  - Feature scaling - normalization
+  - Creating new parameters out of existing? (total_bedrooms/total_rooms)
+
+DATA SPLITS HERE?
+
+3) Modelling:
+  - Linear Regression - baseline
+  - Random Forest
+  - Lasso
+  - Elastic Net
+  - Support Vector Machine?
+  - Gaussian Processes (https://scikit-learn.org/stable/modules/gaussian_process.html))
+
+4) Models optimization (hyperparameters tuning)
+5) Basic error analysis using cross validation (mean squared error)
+6) Feature extraction/importance (Can experiment with different categories (features, columns) combinations for the models)
